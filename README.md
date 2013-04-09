@@ -1,2 +1,2 @@
-sublime-setting
+my sublime user setting file
 ===============
