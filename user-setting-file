@@ -88,7 +88,7 @@
     "indent_guide_options": ["draw_normal"],
 
     // 为true时，保存文件时会删除每行结束后多余的空格
-    "trim_trailing_white_space_on_save": true,
+    "trim_trailing_white_space_on_save": false,
 
     // 默认编码格式
     "default_encoding": "UTF-8",
