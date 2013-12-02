@@ -12,4 +12,5 @@ Some usefull plugin
 2. SideBarEnhancements : 侧栏右键功能增强工具  
 3. SublimeLinter : 代码检测  
 4. LiveReload : 自动刷新，需要配合 chrome 
+5. DocBlockr : 注释
 
