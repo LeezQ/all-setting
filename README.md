@@ -13,7 +13,8 @@ my sublime user setting file
 
 ### Some Usefull Plugin 
 
-1. emmet : zencoding
+1. emmet : zencoding  
+    使用 emmet 时，现在已经换成了html5文档模式，即一些标签不需要闭合，比如 img 、 br 等，但是会引起一些问题，比如 htmlhint 的时候，所以还是建议改成 xhtml 文档模式，方法：Sublime Text -> Preference -> Browse Packages -> Emmit -> Emmet.sublime-settings； 查找 xhtml ，把注释的去掉就好了。  
 2. SideBarEnhancements : 侧栏右键功能增强工具  
 3. SublimeLinter : 代码检测  
 4. LiveReload : 自动刷新，需要配合 chrome 
