@@ -19,3 +19,4 @@ my sublime user setting file
 3. SublimeLinter : 代码检测  
 4. LiveReload : 自动刷新，需要配合 chrome 
 5. DocBlockr : 注释
+6. sublime-react: react 的sublime 插件 see more: https://github.com/reactjs/sublime-react
