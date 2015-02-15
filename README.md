@@ -20,3 +20,14 @@ my sublime user setting file
 4. LiveReload : 自动刷新，需要配合 chrome 
 5. DocBlockr : 注释
 6. sublime-react: react 的sublime 插件 see more: https://github.com/reactjs/sublime-react
+
+
+
+### theme 
+  
+现在使用的是 itg.dark， 更多主题，请参阅：https://scotch.io/bar-talk/the-best-sublime-text-3-themes-of-2014
+   
+### 替换 sublime 的默认图标： 
+
+现在使用的是这个图标 https://dribbble.com/shots/1674374-Sublime-Text-Icon，
+替换方法：http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/#icon
