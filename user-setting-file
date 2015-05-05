@@ -127,6 +127,9 @@
 
     // 标签页的关闭按钮
     "show_tab_close_buttons": true,
+    
+    // 主题
+    "theme": "itg.flat.dark.sublime-theme",
 
     // 哪些文件会被显示到边栏上
     // folder_exclude_patterns and file_exclude_patterns control which files
