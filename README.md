@@ -31,3 +31,5 @@ my sublime user setting file
 
 现在使用的是这个图标 https://dribbble.com/shots/1674374-Sublime-Text-Icon，
 替换方法：http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/#icon
+
+发现另一个好的 theme: https://github.com/voronianski/oceanic-next-theme
