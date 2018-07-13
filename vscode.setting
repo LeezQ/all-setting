@@ -1,0 +1,92 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "editor.lineHeight": 21,
+  "editor.fontSize": 12,
+  "workbench.sideBar.location": "left",
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "editor.renderIndentGuides": true,
+  "explorer.openEditors.visible": 0,
+  "editor.fontFamily": "Menlo, Source Code Pro, monospace",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/tmp/**": true,
+    "**/bower_components/**": true,
+    "**/dist/**": true,
+    "**/dist": true
+  },
+  "explorer.autoReveal": false,
+  "workbench.activityBar.visible": true,
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.schema": "graphql",
+    "*.js": "javascriptreact"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/tmp": true,
+    "**/bower_components": true,
+    "**/**/*.js.map": {
+      "when": "$(basename).ts"
+    },
+    "**/**/*.js": {
+      "when": "$(basename).ts"
+    },
+    "**/**/*.jsx": {
+      "when": "$(basename).tsx"
+    }
+  },
+  "files.autoSave": "off",
+  "files.autoSaveDelay": 2000,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "typescript.check.npmIsInstalled": false,
+  "editor.letterSpacing": 0.9,
+  "prettier.eslintIntegration": true,
+  "git.enableSmartCommit": true,
+  "typescript.tsdk": null,
+  "[javascript]": {},
+  "[javascriptreact]": {},
+  "git.autofetch": true,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": true,
+    "suppressWelcomeNotice": false
+  },
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "gitlens.keymap": "none",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "git.confirmSync": false,
+  "gitlens.historyExplorer.enabled": true,
+  "search.followSymlinks": false,
+  "editor.formatOnSave": true,
+  "gitlens.gitExplorer.files.layout": "tree",
+  "eslint.autoFixOnSave": true,
+  "files.useExperimentalFileWatcher": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "terminal.integrated.scrollback": 1000,
+  "workbench.colorTheme": "Visual Studio Light",
+  "editor.cursorStyle": "block",
+  "terminal.integrated.cursorBlinking": true,
+}
