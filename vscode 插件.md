@@ -70,6 +70,11 @@ import 的时候路径提示
   "prettier.tslintIntegration": true
 
 
+sync setting
+插件地址：
+gist id: c365854089ec00a5e0dc58f3cc4e6e56
+token: 64decoe(NTljODg1YTExN2ZkOGIxZmM4MWMzZTlhY2E0MjU0YzFhYTczNTAwOA==)
+
 
 
 
